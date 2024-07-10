@@ -1,0 +1,38 @@
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.exe
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.deps.json
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.runtimeconfig.json
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.pdb
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.AssemblyInfoInputs.cache
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.AssemblyInfo.cs
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.CoreCompileInputs.cache
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\refint\DNS_Set.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.pdb
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.genruntimeconfig.cache
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\ref\DNS_Set.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\System.Management.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.AssemblyReference.cache
+C:\Users\Saraye tel\Desktop\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.Up2Date
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.exe
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.deps.json
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.runtimeconfig.json
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.dll
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\DNS_Set.pdb
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\System.CodeDom.dll
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\System.Management.dll
+D:\Project\Personal\DNS_Set\DNS_Set\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.AssemblyReference.cache
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.AssemblyInfoInputs.cache
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.AssemblyInfo.cs
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.CoreCompileInputs.cache
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.csproj.Up2Date
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.dll
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\refint\DNS_Set.dll
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.pdb
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\DNS_Set.genruntimeconfig.cache
+D:\Project\Personal\DNS_Set\DNS_Set\obj\Debug\net8.0\ref\DNS_Set.dll

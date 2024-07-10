@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fd7pY+Q8rJxh9y5h0dgzRbPW5wUSZukaL0pLofCOjHzgpMRQFqVsDq5Yz6XJ9VgL6rsellgvVtiZfbH6UvHbmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Personal\\DNS_Set\\DNS_Set\\DNS_Set.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saraye tel\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Saraye tel\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
